@@ -8,6 +8,9 @@
 !vietcong_bes/
 !vietcong_bes/**
 
+# Allow README
+!README.md
+
 # Exclude __pycache__ and .pyc everywhere
 __pycache__/
 *.pyc
